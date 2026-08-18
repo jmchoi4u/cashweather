@@ -1,0 +1,17 @@
+{
+  "name": "CashWeather · 제주 날씨 마켓",
+  "short_name": "CashWeather",
+  "description": "글로벌 AI 예보를 제주 실측으로 보정한 확률로 참여하는 생활날씨 예측·검증 서비스",
+  "start_url": "./?app=1",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d2740",
+  "theme_color": "#102d3d",
+  "lang": "ko",
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "./icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
