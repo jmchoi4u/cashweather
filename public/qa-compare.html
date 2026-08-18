@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CashWeather Design QA</title>
+    <style>
+      * { box-sizing: border-box; }
+      body { margin: 0; background: #eef1f5; color: #172033; font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", sans-serif; }
+      main { width: 1440px; margin: 0 auto; padding: 32px; }
+      h1 { margin: 0 0 6px; font-size: 28px; }
+      p { margin: 0 0 24px; color: #657085; }
+      .board { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+      section { padding: 22px; border: 1px solid #dfe3e9; border-radius: 24px; background: #fff; box-shadow: 0 12px 32px rgba(25, 39, 61, .07); }
+      h2 { margin: 0 0 16px; font-size: 18px; }
+      .row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; align-items: start; }
+      .refs { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+      figure { margin: 0; }
+      img { display: block; width: 100%; max-height: 790px; object-fit: contain; object-position: top; border: 1px solid #e6e9ee; border-radius: 16px; background: #f7f8fa; }
+      figcaption { margin-top: 8px; color: #7a8496; font-size: 12px; text-align: center; }
+      .wide { grid-column: 1 / -1; }
+      .wide .row { grid-template-columns: 1.1fr .9fr; }
+      .wide .refs img { max-height: 390px; }
+      .implementation img { max-height: 790px; }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>CashWeather MVP · reference / implementation</h1>
+      <p>잠금화면 몰입감, Polymarket의 밝은 정보 구조, CashWalk의 보상 동기를 한 화면에서 비교합니다.</p>
+      <div class="board">
+        <section>
+          <h2>Lock screen</h2>
+          <div class="row">
+            <figure><img src="/qa/source-cashwalk-lock.png" alt="CashWalk lock reference" /><figcaption>Source · CashWalk lock</figcaption></figure>
+            <figure class="implementation"><img src="/qa/implementation-lock.png" alt="CashWeather lock implementation" /><figcaption>Implementation · 393×852</figcaption></figure>
+          </div>
+        </section>
+        <section>
+          <h2>Prediction home</h2>
+          <div class="row">
+            <div class="refs">
+              <figure><img src="/qa/source-polymarket.jpg" alt="Polymarket source" /><figcaption>Source · Polymarket</figcaption></figure>
+              <figure><img src="/qa/source-weather.png" alt="Weather app source" /><figcaption>Source · weather hierarchy</figcaption></figure>
+            </div>
+            <figure class="implementation"><img src="/qa/implementation-home.jpg" alt="CashWeather home implementation" /><figcaption>Implementation · bright market</figcaption></figure>
+          </div>
+        </section>
+      </div>
+    </main>
+  </body>
+</html>

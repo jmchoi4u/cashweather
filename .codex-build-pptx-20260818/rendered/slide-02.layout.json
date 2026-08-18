@@ -1,0 +1,609 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/vum7rp",
+    "id": "vum7rp",
+    "slide": 2,
+    "layoutId": "af6231de-fbf4-4338-88ea-21993b7ae403",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "10636ab9-f131-404f-ab3a-bd1f1c450d14",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FBFAF5",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Apple SD Gothic Neo"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "af6231de-fbf4-4338-88ea-21993b7ae403",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "10636ab9-f131-404f-ab3a-bd1f1c450d14",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "10636ab9-f131-404f-ab3a-bd1f1c450d14",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/z6tgjqxc",
+      "id": "1",
+      "bbox": [
+        84,
+        92,
+        800,
+        58
+      ],
+      "geometry": "rect",
+      "text": "날씨 앱이 틀렸는데,",
+      "textPreview": "날씨 앱이 틀렸는데,",
+      "resolvedFontSize": 31,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 31,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#6C7788",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "날씨 앱이 틀렸는데,"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "날씨 앱이 틀렸는데,",
+          "resolvedTextStyle": {
+            "fontSize": 31,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#6C7788",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "날씨 앱이 틀렸는데,",
+              "fontSize": 31,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#6C7788",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/072hcvyx",
+      "id": "2",
+      "bbox": [
+        84,
+        142,
+        700,
+        74
+      ],
+      "geometry": "rect",
+      "text": "누가 책임지죠?",
+      "textPreview": "누가 책임지죠?",
+      "resolvedFontSize": 54,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 54,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#0B172A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "누가 책임지죠?"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "누가 책임지죠?",
+          "resolvedTextStyle": {
+            "fontSize": 54,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#0B172A",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "누가 책임지죠?",
+              "fontSize": 54,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#0B172A",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/18byl0fi",
+      "id": "3",
+      "bbox": [
+        84,
+        214,
+        420,
+        70
+      ],
+      "geometry": "rect",
+      "text": "아무도요.",
+      "textPreview": "아무도요.",
+      "resolvedFontSize": 54,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 54,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#FF6B59",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "아무도요."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "아무도요.",
+          "resolvedTextStyle": {
+            "fontSize": 54,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#FF6B59",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "아무도요.",
+              "fontSize": 54,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#FF6B59",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m9kze5g3",
+      "id": "4",
+      "bbox": [
+        72,
+        336,
+        1136,
+        230
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#2D66F6",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nat0naxo",
+      "id": "5",
+      "bbox": [
+        112,
+        374,
+        860,
+        64
+      ],
+      "geometry": "rect",
+      "text": "우리 날씨 예측이 틀리면",
+      "textPreview": "우리 날씨 예측이 틀리면",
+      "resolvedFontSize": 43,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 43,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "우리 날씨 예측이 틀리면"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "우리 날씨 예측이 틀리면",
+          "resolvedTextStyle": {
+            "fontSize": 43,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "우리 날씨 예측이 틀리면",
+              "fontSize": 43,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ovmhgfet",
+      "id": "6",
+      "bbox": [
+        112,
+        438,
+        820,
+        82
+      ],
+      "geometry": "rect",
+      "text": "포인트를 드립니다.",
+      "textPreview": "포인트를 드립니다.",
+      "resolvedFontSize": 58,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 58,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#FFD548",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "포인트를 드립니다."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "포인트를 드립니다.",
+          "resolvedTextStyle": {
+            "fontSize": 58,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#FFD548",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "포인트를 드립니다.",
+              "fontSize": 58,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#FFD548",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/wn6h4nu1",
+      "id": "7",
+      "bbox": [
+        930,
+        296,
+        265,
+        265
+      ],
+      "geometry": "rect",
+      "alt": "CashWeather 마스코트",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "imageMask": {
+        "geometry": "rect"
+      },
+      "asset": {
+        "assetId": "34379275-ea86-444a-9a76-4b1d0b114cfb",
+        "contentType": "image/png",
+        "byteLength": 805499
+      }
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2d0z21gj",
+      "id": "8",
+      "bbox": [
+        82,
+        618,
+        300,
+        40
+      ],
+      "geometry": "rect",
+      "text": "CashWeather",
+      "textPreview": "CashWeather",
+      "resolvedFontSize": 28,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 28,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#0B172A",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "CashWeather"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "CashWeather",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#0B172A",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "CashWeather",
+              "fontSize": 28,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#0B172A",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3e9gb6x4",
+      "id": "9",
+      "bbox": [
+        890,
+        621,
+        310,
+        40
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFF6C8",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fqdkbqtk",
+      "id": "10",
+      "bbox": [
+        890,
+        622,
+        310,
+        38
+      ],
+      "geometry": "rect",
+      "text": "무료 포인트 예측 챌린지",
+      "textPreview": "무료 포인트 예측 챌린지",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 16,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#0B172A",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "무료 포인트 예측 챌린지"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "무료 포인트 예측 챌린지",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#0B172A",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "무료 포인트 예측 챌린지",
+              "fontSize": 16,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#0B172A",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

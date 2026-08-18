@@ -1,0 +1,688 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/lqhmuv",
+    "id": "lqhmuv",
+    "slide": 10,
+    "layoutId": "af6231de-fbf4-4338-88ea-21993b7ae403",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "10636ab9-f131-404f-ab3a-bd1f1c450d14",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Apple SD Gothic Neo"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "af6231de-fbf4-4338-88ea-21993b7ae403",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "10636ab9-f131-404f-ab3a-bd1f1c450d14",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "10636ab9-f131-404f-ab3a-bd1f1c450d14",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/mhkzq503",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "alt": "비 내리는 제주 도로",
+      "contentType": "image/png",
+      "imageFit": "cover",
+      "imageMask": {
+        "geometry": "rect"
+      },
+      "asset": {
+        "assetId": "9abb7c4f-b457-4767-9652-bf04ede7da42",
+        "contentType": "image/png",
+        "byteLength": 1932809
+      }
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wrm98nel",
+      "id": "2",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "roundRect",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hsvq1sf6",
+      "id": "3",
+      "bbox": [
+        76,
+        86,
+        700,
+        74
+      ],
+      "geometry": "rect",
+      "text": "오늘의 오차를",
+      "textPreview": "오늘의 오차를",
+      "resolvedFontSize": 54,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 54,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "오늘의 오차를"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "오늘의 오차를",
+          "resolvedTextStyle": {
+            "fontSize": 54,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "오늘의 오차를",
+              "fontSize": 54,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m1kr2dwj",
+      "id": "4",
+      "bbox": [
+        76,
+        154,
+        790,
+        92
+      ],
+      "geometry": "rect",
+      "text": "내일의 정확도로.",
+      "textPreview": "내일의 정확도로.",
+      "resolvedFontSize": 68,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 68,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#FFD548",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "내일의 정확도로."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "내일의 정확도로.",
+          "resolvedTextStyle": {
+            "fontSize": 68,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#FFD548",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "내일의 정확도로.",
+              "fontSize": 68,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#FFD548",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/72d8vix4",
+      "id": "5",
+      "bbox": [
+        80,
+        278,
+        680,
+        178
+      ],
+      "geometry": "rect",
+      "text": "글로벌 AI가 틀리는 순간,\n사용자는 포인트를 얻고\n제주는 더 좋은 데이터를 얻습니다.",
+      "textPreview": "글로벌 AI가 틀리는 순간, | 사용자는 포인트를 얻고 | 제주는 더 좋은 데이터를 얻습니다.",
+      "resolvedFontSize": 30,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 30,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#E4EDF8",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "글로벌 AI가 틀리는 순간,"
+          },
+          {
+            "index": 2,
+            "text": "사용자는 포인트를 얻고"
+          },
+          {
+            "index": 3,
+            "text": "제주는 더 좋은 데이터를 얻습니다."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "글로벌 AI가 틀리는 순간,",
+          "lineSpacingPercent": 102000,
+          "resolvedTextStyle": {
+            "fontSize": 30,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#E4EDF8",
+            "alignment": "left",
+            "lineSpacing": 1.02
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "글로벌 AI가 틀리는 순간,",
+              "fontSize": 30,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#E4EDF8",
+              "alignment": "left",
+              "lineSpacing": 1.02
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "사용자는 포인트를 얻고",
+          "lineSpacingPercent": 102000,
+          "resolvedTextStyle": {
+            "fontSize": 30,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#E4EDF8",
+            "alignment": "left",
+            "lineSpacing": 1.02
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "사용자는 포인트를 얻고",
+              "fontSize": 30,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#E4EDF8",
+              "alignment": "left",
+              "lineSpacing": 1.02
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "제주는 더 좋은 데이터를 얻습니다.",
+          "lineSpacingPercent": 102000,
+          "resolvedTextStyle": {
+            "fontSize": 30,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#E4EDF8",
+            "alignment": "left",
+            "lineSpacing": 1.02
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "제주는 더 좋은 데이터를 얻습니다.",
+              "fontSize": 30,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#E4EDF8",
+              "alignment": "left",
+              "lineSpacing": 1.02
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/hovipkzq",
+      "id": "6",
+      "bbox": [
+        836,
+        164,
+        372,
+        372
+      ],
+      "geometry": "rect",
+      "alt": "CashWeather 마스코트",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "imageMask": {
+        "geometry": "rect"
+      },
+      "asset": {
+        "assetId": "5f2f7e96-74c9-4220-b513-5eb150778c98",
+        "contentType": "image/png",
+        "byteLength": 805499
+      }
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/94vqx8fa",
+      "id": "7",
+      "bbox": [
+        82,
+        532,
+        600,
+        34
+      ],
+      "geometry": "rect",
+      "text": "캐시워크 지금 바로 다운로드",
+      "textPreview": "캐시워크 지금 바로 다운로드",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "rgba(255, 255, 255, 0.33333)",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "캐시워크 지금 바로 다운로드"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "캐시워크 지금 바로 다운로드",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "rgba(255, 255, 255, 0.33333)",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "캐시워크 지금 바로 다운로드",
+              "fontSize": 20,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "rgba(255, 255, 255, 0.33333)",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yxkrytwn",
+      "id": "8",
+      "bbox": [
+        82,
+        568,
+        180,
+        38
+      ],
+      "geometry": "rect",
+      "text": "아니고,",
+      "textPreview": "아니고,",
+      "resolvedFontSize": 26,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 26,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#FF6B59",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "아니고,"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "아니고,",
+          "resolvedTextStyle": {
+            "fontSize": 26,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#FF6B59",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "아니고,",
+              "fontSize": 26,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#FF6B59",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zyt8ryx8",
+      "id": "9",
+      "bbox": [
+        82,
+        610,
+        420,
+        60
+      ],
+      "geometry": "rect",
+      "text": "CashWeather",
+      "textPreview": "CashWeather",
+      "resolvedFontSize": 46,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 46,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "CashWeather"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "CashWeather",
+          "resolvedTextStyle": {
+            "fontSize": 46,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "CashWeather",
+              "fontSize": 46,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vax4r65w",
+      "id": "10",
+      "bbox": [
+        828,
+        586,
+        380,
+        62
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFD548",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u9oni14r",
+      "id": "11",
+      "bbox": [
+        828,
+        587,
+        380,
+        60
+      ],
+      "geometry": "rect",
+      "text": "지금 바로 다운로드",
+      "textPreview": "지금 바로 다운로드",
+      "resolvedFontSize": 26,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 26,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#0B172A",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "wrap": "square",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "지금 바로 다운로드"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "지금 바로 다운로드",
+          "resolvedTextStyle": {
+            "fontSize": 26,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#0B172A",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "지금 바로 다운로드",
+              "fontSize": 26,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#0B172A",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

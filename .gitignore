@@ -1,0 +1,9 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+제출/shots/
+제출/slide-*.jpg
+*.pdf
+~$*
+.DS_Store

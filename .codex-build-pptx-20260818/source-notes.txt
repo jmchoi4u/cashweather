@@ -1,0 +1,29 @@
+CashWeather 7-minute pitch deck source notes
+
+Primary user-provided source
+- /Users/jm/Desktop/Projects/cashweather-mvp/제출/CashWeather_25조_기획서.pdf
+
+Verified project implementation sources
+- /Users/jm/Desktop/Projects/cashweather-mvp/src/calibration.ts
+- /Users/jm/Desktop/Projects/cashweather-mvp/src/markets.ts
+- /Users/jm/Desktop/Projects/cashweather-mvp/src/weather.ts
+- /Users/jm/Desktop/Projects/cashweather-mvp/src/verification.ts
+- /Users/jm/Desktop/Projects/cashweather-mvp/AGENTS.md
+- npm run check:runtime: passed on 2026-08-18
+- npm run test:runtime -- --reporter=line: 8/8 passed on 2026-08-18
+
+Project-owned visual assets
+- /Users/jm/Desktop/Projects/cashweather-mvp/public/assets/cashweather/jeju-rain-lockscreen.png
+- /Users/jm/Desktop/Projects/cashweather-mvp/public/assets/cashweather/cloud-coin-mascot.png
+- /Users/jm/Desktop/Projects/cashweather-mvp/qa/final-lock.png
+- /Users/jm/Desktop/Projects/cashweather-mvp/qa/final-home-pixel.png
+- /Users/jm/Desktop/Projects/cashweather-mvp/qa/reward-success-browser.png
+- /Users/jm/Desktop/Projects/cashweather-mvp/qa/final-ranking-pixel.png
+
+External references
+- https://endohealth.ai/ (emotion-first pitch inspiration only)
+- https://developers.google.com/weathernext/guides/models
+- https://open-meteo.com/en/docs/google-weathernext-api
+
+Missing asset handled as an editable placeholder
+- The user's wet-rain selfie / AI meme video file was not supplied. Slide 1 uses the project mascot as a finished placeholder. Replace that image with the selfie or an 8-10 second MP4 while preserving the slide composition.
